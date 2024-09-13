@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TrafficLightApp</string>
+    <string name="green_light">Green Light</string>
+    <string name="yellow_light">Yellow Light</string>
+    <string name="red_light">Green Light</string>
+    <string name="button_placeholder">Lorem Ipsum</string>
 </resources>
